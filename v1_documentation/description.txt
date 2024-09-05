@@ -1,0 +1,24 @@
+Smart Clock is a ardunio nano project.
+
+It has all the normal features of a digital alarm clock.
+*Change Alarm Time
+*Change Current Time
+*Displays Time on a 7 segment display
+
+The "Smart" features of the alarm clock are the following.
+
+*Instead of waking up to a loud noise, you will be genetly woken with a bright light
+*Instead of there being a "set" time for an alarm(lets say 7 a.m. for example). 
+You will be woken up within a hour timeframe, and the exact alarm time will be based on when you are in a light sleep state, inbetween sleep cycles.
+This is what researchers have suggested is the optimal time to wake up.
+
+
+
+Features to add or update.
+*This is intended to be a real time system(RTS), since it can be used without internet connection. 
+The RTS capability is relativly acceptable for an alarm clock, however testing has shown that over a few days, it will be a minute off the actual time.
+
+*A back-up alarm that uses noise. Sometimes the light alone was not enough to wake me up, so a back-up alarm noise should be added to prevent waking up late
+
+*Move onto a PCB
+
